@@ -16,6 +16,8 @@ Make sure your replacement image has the name `header`.
 
 * Post [here](https://redd.it/4gxwqg) that you are using this theme. (Highly appreciated).
 
+---
+
 **OTHER**
 
 [SIDEBAR MARKDOWN](https://www.reddit.com/r/Structura/wiki/sidebarmarkdown)
