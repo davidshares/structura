@@ -1,6 +1,6 @@
 # structura
 
-Reddit theme by /r/Structura. Theme instructions via https://www.reddit.com/r/Structura/wiki/download
+Reddit theme by /r/Structura for /r/BTC. Theme instructions via https://www.reddit.com/r/Structura/wiki/download
 
 * Go to **edit stylesheet** under **MODERATION TOOLS** in the sidebar.
 
