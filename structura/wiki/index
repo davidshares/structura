@@ -1,14 +1,34 @@
 #Welcome to /r/btc!
 
-Bitcoin, commonly abbreviated as BTC, is the [currency of the Internet](https://wiki.bitcoin.com/w/Introduction). It is a global and decentralized digital money, that also powers the blockchain, which is an immutable ledger. Unlike traditional currencies such as dollars, bitcoins are issued and managed without the need for any central authority whatsoever.
+Bitcoin, commonly abbreviated as BTC, is the [currency of the Internet](https://wiki.bitcoin.com/w/Introduction). It is a digital currency, also called a virtual currency, which can be transacted for a low-cost nearly instantly from anywhere in the world. Bitcoin also powers the [blockchain](https://wiki.bitcoin.com/w/Blockchain), which is a public immutable and decentralized global ledger. Unlike traditional currencies such as dollars, bitcoins are issued and managed without the need for any central authority whatsoever. There is no government, company, or bank in charge of bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With bitcoin, you can *be your own bank*.
 
-The /r/btc reddit community was originally created as a community to discuss bitcoin, but quickly gained momentum in August 2015 when the bitcoin [block size](https://www.reddit.com/r/btc/search?q=block+size&restrict_sr=on) debate heightened. On the legacy /r/bitcoin subreddit the lead moderator along with several other moderators were found to have been heavily censoring discussions that were not inline with the opinions of the lead moderator. 
+The /r/btc reddit community was originally created as a community to discuss bitcoin, but quickly gained momentum in August 2015 when the bitcoin [block size](https://www.reddit.com/r/btc/search?q=block+size&restrict_sr=on) debate heightened. On the legacy \/r/bitcoin subreddit it was discovered that moderators were heavily censoring discussions that were not inline with their own opinions. 
 
-Once realized, the subreddit subscribers began to openly question the censorship [which lead to](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/) hundreds if not thousands of redditors being banned from the /r/bitcoin subreddit. Many switched to other subreddits such as /r/bitcoin_uncensored and /r/btc.
+Once realized, the subreddit subscribers began to openly question the censorship [which lead to](https://www.reddit.com/r/Bitcoin/comments/3h9cq4/its_time_for_a_break_about_the_recent_mess/) many hundreds of redditors being banned from the \/r/bitcoin subreddit. A large number of redditors switched to other subreddits such as /r/bitcoin_uncensored and /r/btc. For a full run-down on the history of censorship, please read *[A (brief and incomplete) history of censorship in /r/Bitcoin](https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43)* by John Blocke. 
 
-/r/btc honors the spirit and nature of bitcoin being a place for open and free discussion about bitcoin without the interference of moderators. Subscribers at anytime can look at and review the [public moderator logs](https://r.go1dfish.me/r/btc/about/log#?theme=btc). 
+**This subreddit is a diverse community dedicated to the success of bitcoin. /r/btc honors the spirit and nature of bitcoin being a place for open and free discussion about bitcoin without the interference of moderators. Subscribers at anytime can look at and review the [public moderator logs](https://r.go1dfish.me/r/btc/about/log#?theme=btc). This subreddit does have [rules](https://www.reddit.com/r/btc/wiki/index#wiki_rules_for_this_subreddit_.28also_in_the_sidebar.29) as mandated by reddit that we must follow plus a couple of rules of our own**
 
-#Learn more about bitcoin
+#The benefits of Bitcoin
+
+* Bitcoin is permissionless: Traditional currencies require permission to use (from banks, financial institutions, governments). Bitcoin requires no permission from anyone and is free and open to use globally. 
+
+* Bitcoin is immune to seizure: Nobody can steal or confiscate your bitcoin since you own it; it's not housed at any bank or company. 
+
+* Bitcoin is censorship resistant: Using [proof-of-work](https://wiki.bitcoin.com/w/Proof_of_work) (PoW), no one can block or censor your transactions. 
+
+* Bitcoin is decentralized: The network is distributed globally among many [thousands of nodes](https://bitnodes.21.co/) and [millions of users](https://wiki.bitcoin.com/w/Introduction#How_many_people_use_Bitcoin.3F).
+
+* Bitcoin has a limited supply: There will only ever be [21 million bitcoins](https://wiki.bitcoin.com/w/FAQ#How_long_will_it_take_to_generate_all_the_coins.3F) created and are generated at a predictable rate; bitcoin is deflationary. 
+
+* Bitcoin is open source: anyone can contribute to developing bitcoin in a myriad of areas including different [bitcoin clients](https://wiki.bitcoin.com/w/Software#Bitcoin_clients). 
+
+* Bitcoin is fast and easy: since bitcoin is a digital currency, transactions are near instant and are very low-cost (much less than central payment networks such as PayPal). 
+
+* Bitcoin is a "push system": With bitcoin, there is no risk of charge-backs because once bitcoins are sent, the transaction cannot be reversed. Bitcoin is very similar to cash in this sense; once you give someone cash, you cannot get it back (unless they give it back to you). 
+
+* Bitcoin is freedom: using bitcoin gives you the financial freedom to transact globally using the properties mentioned above. 
+
+#Getting Started with Bitcoin
 
 * [Learn how to get started with Bitcoin](https://wiki.bitcoin.com/w/Getting_started)
 * [Choose a wallet](https://www.bitcoin.com/choose-your-wallet)
@@ -18,18 +38,31 @@ Once realized, the subreddit subscribers began to openly question the censorship
 * [Common bitcoin myths](https://wiki.bitcoin.com/w/Myths)
 * [Read the Bitcoin whitepaper](https://www.bitcoin.com/bitcoin.pdf)
 * [Bitcoin Unit Measurements](https://wiki.bitcoin.com/w/Bitcoin_units)
+* [Merchant Resources](https://wiki.bitcoin.com/w/Merchant_Processing)
 
-#Additional Reading
+#Additional Reading & Resources
 
+* [Bitcoin Mining](https://www.bitcoin.com/bitcoin-mining)
+* [A collection of Bitcoin videos](https://wiki.bitcoin.com/w/Bitcoin_videos)
 * [The Math Behind Bitcoin](https://archive.is/rSx1T)
 * [A simple explanation of bitcoin "sidechains"](http://gendal.wordpress.com/2014/10/26/a-simple-explanation-of-bitcoin-sidechains/) 
 * [Layman's Guide to Elliptic Curve Digital Signatures](http://www.royalforkblog.com/2014/09/04/ecc/)
+* [Bitcoin Projects](https://wiki.bitcoin.com/w/Bitcoin_projects)
 
-#Using Flair Filters
+#Rules for this subreddit (also in the sidebar) 
+
+1. Remember [asking for votes](https://www.reddit.com/help/contentpolicy#section_prohibited_behavior) is strictly prohibited.
+2. No begging for bitcoin. Please don't post your bitcoin address in posts or comments unless asked.
+3. No Referral links or URL shortening services are allowed.
+4. [No Doxing] (https://www.reddit.com/help/contentpolicy#section_unwelcome_content). Doxing or posts that resemble doxing will result in the post being removed and the user banned permanently.
+5. Scams, Spam, User Stalking, Excessive Profanity & Blatant User or Mod Abuse will result in removal of posts and in some cases the user will be banned.
+6. It's recommended that heavy altcoin discussion be posted in its respective subreddit or places like /r/cryptocurrency.
+
+#Using Flair Filters on /r/btc
 
 Use the flair filters listed below to search /r/btc based on specific flairs assigned to posts when submitted by community members.  
 
-If you don't know how to give your own post flair after submitting it, [please review this animation](http://i.imgur.com/k81md4A.gif).
+If you don't know how to give your own post flair after submitting it, [please review this tutorial](http://i.imgur.com/k81md4A.gif).
 
 #Flair Based Posts
 
@@ -77,81 +110,48 @@ If you don't know how to give your own post flair after submitting it, [please r
 
 # Moddiquette for /r/btc 
 
-Moddiquette is a set of guidelines for moderators of /r/btc. Consider this a pledge between you as a mod and the /r/btc community.
+Moddiquette is a set of guidelines for moderators of /r/btc. Consider this a pledge between mods and the bitcoin reddit community.
 
-###![](http://sp.reddit.com/happy.png)Mods Please do:
+####Mods Please do:
 
 * Be calm and polite, even when users are not.
-
 * Offer helpful rule explanations, tips, and links to new or confused users.
-
-* Check the moderation queues and /new listings__ of r/btc regularly.
-[[modqueue]](/r/btc/about/modqueue)  [[unmoderated]](/r/btc/about/unmoderated)  [[new queue]](/r/btc/new)
-
-* Try to respond to all r/btc moderator mail, even if we cannot address it in a timely manner.
-
-* Be open to the viewpoints of other moderators in r/btc and try to reach a consensus on difficult tasks.
-
+* Check the moderation queues and new listings regularly.
+* Try to respond to all moderator mail, even if we cannot address it in a timely manner.
+* Be open to the viewpoints of other moderators and try to reach a consensus on difficult tasks.
 * Keep a unified front when addressing users officially.
-
-* Report spammers to /r/spam when [ properly identified](http://www.reddit.com/r/Moderating/comments/cz6zu/identifying_spammers_101/).
-
+* Report spammers to /r/spam when [properly identified](http://www.reddit.com/r/Moderating/comments/cz6zu/identifying_spammers_101/).
 * Try to inform users when we remove their content. You can leave a distinguished comment or mark their post with link flair.
 
-###![](http://sp.reddit.com/sad.png)Mods Please don't:
+####Mods Please don't:
 
 * Remove content based on your opinion.
-
-* Distinguish comments or submissions when you aren't speaking officially on behalf of r/btc.
-
+* Distinguish comments or submissions when you aren't speaking officially on behalf of /r/btc.
 * Publish moderator mail publicly without permission of those involved.
-
 * Hide reddit ads or purposely mislead users with custom CSS.
-
 * Act unilaterally when making major revisions to rules, sidebars, or stylesheets.
-
-* Invite other users as moderators to r/btc without their permission.
-
-* Take on moderation roles in more subreddits than we can handle.
-
-* Take moderation positions in communities where your profession, employment, or biases could pose a direct conflict of interest to the neutral and user driven nature of reddit.
-
-* Encourage or "feed" trolls__—just ignore them.
-
-* Ban users from r/btc if they have not broken any rules.
-
+* Invite other users as moderators without their permission.
+* Encourage or "feed" trolls, just ignore them.
+* Ban users from if they have not broken any rules.
 * Interfere with other subreddits or their moderation.
 
 #Miscellaneous Tools for /r/btc and reddit
 
 * [Share to /r/btc Bookmarklet](https://www.reddit.com/r/btc/comments/3yprq9/share_to_rbtc_bookmarklet/) 
-
 * [Markdown Live Previewer](http://markdownlivepreview.com/ )
-
 * [Toolbox extension](https://www.reddit.com/r/toolbox)
-
+* [Reddit Enhancement Suite (RES)](https://redditenhancementsuite.com/)
 * [Automod full documentation](https://www.reddit.com/wiki/automoderator/full-documentation)
-
 * [Automod library](https://www.reddit.com/r/AutoModerator/wiki/library)
-
 * [reddit search operators](https://www.reddit.com/wiki/search)
-
 * [reddit metrics](http://redditmetrics.com/r/btc) and [reddit traffic](https://www.reddit.com/r/btc/about/traffic/)
-
 * [reddit user analytics](http://snoopsnoo.com/)
-
 * [reddit user comment analytics](http://www.roadtolarissa.com/javascript/reddit-comment-visualizer/)
-
 * [reddit sub post time analytics](https://www.redditlater.com/analysis/)
-
 * [snew allows to see deleted comments](https://r.go1dfish.me/)
-
 * [unreddit allows to see deleted comments] (https://unreddit.com)
-
 * [reddit bug status page](http://www.redditstatus.com/)
-
 * [Bugs subreddit](https://reddit.com/r/bugs/)
-
 * [Info on new reddit outgoing links](https://www.reddit.com/r/TheoryOfReddit/comments/4aqd1y/just_noticed_reddit_is_redirecting_outgoing_links/)
 
 #Bitcoin News & Services Link Submission FAQ
@@ -170,4 +170,6 @@ To submit your link request to be added to the /r/btc sidebar, please use the su
 
 #Contribute to this Wiki page
 
-Want to make edits to this wiki page? [Submit a pull request on Github for this page with your requested changes!](https://github.com/bitcoin-portal/structura/blob/master/structura/wiki/index)
+Want to make changes/edits to this wiki page? 
+
+[Submit a pull request on Github for this page with your requested changes!](https://github.com/bitcoin-portal/structura/blob/master/structura/wiki/index)
